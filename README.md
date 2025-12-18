@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm Seb
 
-<!--
-**pathofseb/pathofseb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Robotics & AI | MSc Robotics | _Tony Stark wannabe_
 
-Here are some ideas to get you started:
+Building robots and AI systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- Built a fuel-efficient car from scratch (Mechanical engineer).
+- Developed ML solutions for TV2 (Norway's largest broadcaster).
+- Humanoid Robotic hand.
+- LeRobot x CV pipeline for training (Tinkering @ a hackathon).
+
+> Robotics is the future.
+
+### *Alter Ego*
+-- @pathofseb on IG
+
